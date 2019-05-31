@@ -1,0 +1,19 @@
+{
+  "name": "node_designpattern",
+  "version": "1.0.0",
+  "description": "node design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranilchhetri/node_design_patterns.git"
+  },
+  "author": "pranil gc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranilchhetri/node_design_patterns/issues"
+  },
+  "homepage": "https://github.com/pranilchhetri/node_design_patterns#readme"
+}
